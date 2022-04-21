@@ -1,0 +1,17 @@
+TY  - JOUR
+A2  - Xu, Wenyao
+AU  - Lee, Jin
+AU  - Kim, Jungsun
+PY  - 2016
+DA  - 2016/07/13
+TI  - Energy-Efficient Real-Time Human Activity Recognition on Smart Mobile Devices
+SP  - 2316757
+VL  - 2016
+AB  - Nowadays, human activity recognition (HAR) plays an important role in wellness-care and context-aware systems. Human activities can be recognized in real-time by using sensory data collected from various sensors built in smart mobile devices. Recent studies have focused on HAR that is solely based on triaxial accelerometers, which is the most energy-efficient approach. However, such HAR approaches are still energy-inefficient because the accelerometer is required to run without stopping so that the physical activity of a user can be recognized in real-time. In this paper, we propose a novel approach for HAR process that controls the activity recognition duration for energy-efficient HAR. We investigated the impact of varying the acceleration-sampling frequency and window size for HAR by using the variable activity recognition duration (VARD) strategy. We implemented our approach by using an Android platform and evaluated its performance in terms of energy efficiency and accuracy. The experimental results showed that our approach reduced energy consumption by a minimum of about 44.23&#x25; and maximum of about 78.85&#x25; compared to conventional HAR without sacrificing accuracy.
+SN  - 1574-017X
+UR  - https://doi.org/10.1155/2016/2316757
+DO  - 10.1155/2016/2316757
+JF  - Mobile Information Systems
+PB  - Hindawi Publishing Corporation
+KW  - 
+ER  - 
